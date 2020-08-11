@@ -1,0 +1,46 @@
+
+Word:              polieyerathang
+Recommendation:    polyurethane
+Lexical distance:  5
+Phonemic distance: 3
+
+Word:              akshulie
+Recommendation:    actually
+Lexical distance:  6
+Phonemic distance: 2
+
+Word:              hoapflea
+Recommendation:    hopefully
+Lexical distance:  5
+Phonemic distance: 2
+
+Word:              kuzz-zyn
+Recommendation:    cousin
+Lexical distance:  7
+Phonemic distance: 2
+
+Word:              zookeeny
+Recommendation:    zucchini
+Lexical distance:  6
+Phonemic distance: 1
+
+Word:              seprit
+Recommendation:    separate
+Lexical distance:  3
+Phonemic distance: 2
+
+Word:              apsirduhtee
+Recommendation:    absurdity
+Lexical distance:  6
+Phonemic distance: 2
+
+Word:              enphrakshun
+Recommendation:    infraction
+Lexical distance:  7
+Phonemic distance: 1
+
+Word:              real-eyes
+Recommendation:    realize
+Lexical distance:  4
+Phonemic distance: 0
+
