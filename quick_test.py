@@ -1,5 +1,5 @@
-from recommender import Recommender
 import editdistance as ed
+from recommender import Recommender
 
 words = [
    'polieyerathang',
